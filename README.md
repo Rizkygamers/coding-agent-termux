@@ -20,6 +20,12 @@ curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/mai
     - **Claude Code**: Configured for Ollama / Gemma4.
     - **Termux-dev**: Developer utility set.
 
+### Usage
+- **Claude**: `claude`
+- **Gemini**: `gemini-cli`
+- **Antigravity**: `antigravity`
+- **Termux-dev**: `termux-dev`
+
 ### Configuration
 The script creates `~/.claude/env` to store environment variables:
 - **Base URL**: `https://ollama.com`
@@ -48,6 +54,12 @@ curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/mai
     - **Gemini CLI**: Interface AI Gemini dari Google.
     - **Claude Code**: Dikonfigurasi untuk Ollama / Gemma4.
     - **Termux-dev**: Set utility untuk developer.
+
+### Cara Pakai
+- **Claude**: `claude`
+- **Gemini**: `gemini-cli`
+- **Antigravity**: `antigravity`
+- **Termux-dev**: `termux-dev`
 
 ### Konfigurasi
 Script ini membuat file `~/.claude/env` untuk menyimpan environment variables:
