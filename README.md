@@ -23,7 +23,7 @@ curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/mai
 ### Usage
 - **Claude**: `claude`
 - **Gemini**: `gemini-cli`
-- **Antigravity**: `antigravity`
+- **Antigravity**: `agy`
 - **Termux-dev**: `termux-dev`
 
 ### Configuration
@@ -58,7 +58,7 @@ curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/mai
 ### Cara Pakai
 - **Claude**: `claude`
 - **Gemini**: `gemini-cli`
-- **Antigravity**: `antigravity`
+- **Antigravity**: `agy`
 - **Termux-dev**: `termux-dev`
 
 ### Konfigurasi

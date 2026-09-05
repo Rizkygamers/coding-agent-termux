@@ -30,6 +30,9 @@ for profile in ~/.bashrc ~/.zshrc; do
         if ! grep -q "source ~/.claude/env" "$profile"; then
             echo 'source ~/.claude/env' >> "$profile"
         fi
+        if ! grep -q "alias agy='antigravity'" "$profile"; then
+            echo "alias agy='antigravity'" >> "$profile"
+        fi
     fi
 done
 
