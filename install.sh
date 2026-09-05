@@ -33,6 +33,12 @@ for profile in ~/.bashrc ~/.zshrc; do
         if ! grep -q "alias agy='antigravity'" "$profile"; then
             echo "alias agy='antigravity'" >> "$profile"
         fi
+        if ! grep -q "alias gemini='gemini-cli'" "$profile"; then
+            echo "alias gemini='gemini-cli'" >> "$profile"
+        fi
+        if ! grep -q "alias devx='termux-dev'" "$profile"; then
+            echo "alias devx='termux-dev'" >> "$profile"
+        fi
     fi
 done
 

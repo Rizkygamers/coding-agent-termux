@@ -22,9 +22,9 @@ curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/mai
 
 ### Usage
 - **Claude**: `claude`
-- **Gemini**: `gemini-cli`
+- **Gemini**: `gemini`
 - **Antigravity**: `agy`
-- **Termux-dev**: `termux-dev`
+- **Termux-dev**: `devx`
 
 ### Configuration
 The script creates `~/.claude/env` to store environment variables:
@@ -57,9 +57,9 @@ curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/mai
 
 ### Cara Pakai
 - **Claude**: `claude`
-- **Gemini**: `gemini-cli`
+- **Gemini**: `gemini`
 - **Antigravity**: `agy`
-- **Termux-dev**: `termux-dev`
+- **Termux-dev**: `devx`
 
 ### Konfigurasi
 Script ini membuat file `~/.claude/env` untuk menyimpan environment variables:
