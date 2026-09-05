@@ -9,7 +9,7 @@ A single bash script to set up common AI CLI tools and development environments 
 
 ### Quick Install
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/coding-agent-termux/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/main/install.sh | bash
 ```
 
 ### What it installs
@@ -38,7 +38,7 @@ source ~/.bashrc
 
 ### Instalasi Cepat
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/coding-agent-termux/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Rizkygamers/coding-agent-termux/main/install.sh | bash
 ```
 
 ### Apa yang diinstal
